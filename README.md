@@ -3,7 +3,7 @@
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+#### [Project homepage](https://cristian-rincon.github.io/py-cookiecutter-datascience/)
 
 
 ### Requirements to use the cookiecutter template:
@@ -26,7 +26,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/cristian-rincon/py-cookiecutter-datascience
 
 
 [![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
@@ -85,7 +85,7 @@ The directory structure of your new project looks like this:
 
 ## Contributing
 
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
+We welcome contributions! [See the docs for guidelines](https://cristian-rincon.github.io/py-cookiecutter-datascience/#contributing).
 
 ### Installing development requirements
 ------------
